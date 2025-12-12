@@ -1,0 +1,32 @@
+# Основные настройки
+show=drun
+prompt=Поиск...
+orientation=vertical
+insensitive=true
+allow_images=true
+width=800
+height=500
+lines=10
+columns=3  # ТРИ колонки - плиточки!
+location=center
+content_halign=fill
+
+# Внешний вид
+layer=overlay
+hide_scrollbar=false
+always_parse_args=true
+print_command=true
+filter_rate=100
+allow_markup=true
+image_size=32
+margin=20
+padding=10
+border_radius=12
+border_width=2
+border_color=rgba(255,255,255,0.1)
+
+# Поведение
+parse_search=false
+no_actions=false
+gtk_dark=true
+dynamic_lines=false
